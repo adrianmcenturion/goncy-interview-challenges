@@ -60,6 +60,10 @@ p {
   color: #aaa;
 }
 
+.isLoading {
+  text-align: center;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
