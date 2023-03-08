@@ -4,3 +4,10 @@ export interface Product {
   description: string;
   price: number;
 }
+
+export type Sort = "alphabetical" | "price";
+
+export type PersistedData = {
+  order: string;
+  query: string;
+};

@@ -64,6 +64,10 @@ p {
   text-align: center;
 }
 
+.selectLabel {
+  margin-left: .5em;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
